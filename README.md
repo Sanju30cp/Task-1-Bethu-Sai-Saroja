@@ -72,13 +72,13 @@ Project Workflow
 - Practical Excel-based data cleaning workflow
 
 Project Structure
-1.Dataset for Data Analytics(1).xlsx
-2.Final_Cleaned_Dataset.xlsx
-3.README.md
+ 1.Dataset for Data Analytics(1).xlsx
+ 2.Final_Cleaned_Dataset.xlsx
+ 3.README.md
 
 Outcome
 Successfully transformed a raw e-commerce dataset into a clean, structured, and analysis-ready dataset by applying data cleaning and preparation techniques.
 
 Author
 Bethu Sai Saroja
-Data Analytics Internship at Decode Labs 
+Data Analytics Internship at Decode Labs
